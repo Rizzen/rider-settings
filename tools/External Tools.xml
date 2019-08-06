@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\SharpProjects\fsharplang.ru\build-bundle.cmd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/SharpProjects/fsharplang.ru" />
+    </exec>
+  </tool>
+  <tool name="Run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\SharpProjects\fsharplang.ru\run.cmd" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/SharpProjects/fsharplang.ru" />
+    </exec>
+  </tool>
+</toolSet>
